@@ -1,6 +1,6 @@
 # 13.2.3.7
 ### Why is it important to save a BitLocker recovery key?
-Answer The recovery key is needed for you to gain access to the computer in the event the password is forgotten, or in the event of certain hardware problems, such as a motherboard replacement or hard drive crash, or even after performing a BIOS update. Without it, there is no way to access your data.
+The recovery key is needed for you to gain access to the computer in the event the password is forgotten, or in the event of certain hardware problems, such as a motherboard replacement or hard drive crash, or even after performing a BIOS update. Without it, there is no way to access your data.
 
 ### What is the function of a TPM in relation to BitLocker?
 Trusted Platform Module (TPM) can be used to store the disk encryption key so it can tie use of the disk to a specific computer.
@@ -22,13 +22,13 @@ The student may not understand all the settings. However, the student should be 
 
 # 13.3.3.6
 ### What are the names of the accounts listed?
-Answers will vary. The Administrator and Guest accounts are included in all the answers.
+The Administrator and Guest accounts are included in all the answers.
 
 ### c. Select the Groups folder. Name five groups from the list.
 Some of the Groups in the list are: Administrators, Backup Operators, Guests, Power.
 
 ### Which group does your account belong to?
-Answers will vary. The account should be a member of the Administrators Group because the user is logged into an account with administrative privileges.
+The account should be a member of the Administrators Group because the user is logged into an account with administrative privileges.
 
 ### What is Student01 required to do when logging in the first time?
 Change password.
