@@ -1,6 +1,6 @@
 # 13.2.3.7
 Why is it important to save a BitLocker recovery key?
-The recovery key is needed for you to gain access to the computer in the event the password is forgotten, or in the event of certain hardware problems, such as a motherboard replacement or hard drive crash, or even after performing a BIOS update. Without it, there is no way to access your data.
+## Answer The recovery key is needed for you to gain access to the computer in the event the password is forgotten, or in the event of certain hardware problems, such as a motherboard replacement or hard drive crash, or even after performing a BIOS update. Without it, there is no way to access your data.
 
 What is the function of a TPM in relation to BitLocker?
 Trusted Platform Module (TPM) can be used to store the disk encryption key so it can tie use of the disk to a specific computer.
